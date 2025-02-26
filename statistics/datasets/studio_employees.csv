@@ -1,0 +1,15 @@
+EmployeeID,Name,Email,Position,Team,Age,Height,YearsAtCompany
+1,Luciano Dias,luciano.dias@ebankit.com,Technical lead,Amber,60,178,25
+2,Tiago Teixeira,tiago.teixeira@ebankit.com,Software developer,Amber,38,175,10
+3,Rogério Machado,rogerio.machado@ebankit.com,Software developer,Amber,42,180,14
+4,Luis Allen,luis.allen@ebankit.com,Product analyst,Coral,37,172,9
+5,Barbara Pereira,barbara.pereira@ebankit.com,Lead product analyst,Coral,35,168,7
+6,Cristiana Faria,cristiana.faria@ebankit.com,Product analyst,Coral,40,170,12
+7,Anju Petter,anju.petter@ebankit.com,QA analyst,Amber,48,174,18
+8,Ana Dias,ana.dias@ebankit.com,QA analyst,Amber,34,166,6
+9,Marcelo Cerqueira,marcelo.cerqueira@ebankit.com,Technical lead,Yellow,46,182,16
+10,Telmo Cardoso,telmo.cardoso@ebankit.com,Software developer,Yellow,30,177,4
+11,Duarte Castanho,duarte.castanho@ebankit.com,Software developer,Yellow,29,173,3
+12,Pedro Campea,pedro.campea@ebankit.com,UX/UI designer,Coral,39,179,11
+13,Ines Sousa,ines.sousa@ebankit.com,UX writer,Coral,36,165,8
+14,Marcelo Sousa,marcelo.sousa@ebankit.com,UX/UI designer,Coral,35,176,7
